@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "Jack Lin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
 }
